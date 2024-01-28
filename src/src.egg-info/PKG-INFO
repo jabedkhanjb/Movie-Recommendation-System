@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A straightforward Python package designed for crafting uncomplicated web applications.
+Author: Mahfuz Islam Khan Jabed
+Author-email: mahfuzislam1410@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+
+Movies Recommended System
